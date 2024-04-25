@@ -1,0 +1,7 @@
+# site.yaml
+site_name: "Icehongssii's Tech Blog"
+author:
+  name: "Icehongssii"
+  url: "https://icehongssii.xyz"
+navigation:
+  - title: "hi"
